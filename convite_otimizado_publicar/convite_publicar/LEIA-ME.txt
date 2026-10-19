@@ -1,0 +1,11 @@
+CONVITE DE CASAMENTO — SABINA & ROGÉRIO
+
+Este pacote preserva o convite interactivo (envelope clicável, layout adaptável ao telemóvel e botão de confirmação). Foram adicionados metadados Open Graph e uma imagem de pré-visualização para partilha por link.
+
+PUBLICAR GRATUITAMENTE NO NETLIFY DROP:
+1. Abra https://app.netlify.com/drop
+2. Extraia este ZIP para uma pasta.
+3. Arraste a pasta convite_publicar para a área de publicação do Netlify.
+4. Copie o endereço público criado e envie esse LINK pelo WhatsApp (não envie o HTML como anexo).
+
+IMPORTANTE: a publicação ainda tem de ser feita na sua conta/navegador. Depois de publicar, teste o link. A pré-visualização do WhatsApp pode demorar a actualizar devido à cache.
